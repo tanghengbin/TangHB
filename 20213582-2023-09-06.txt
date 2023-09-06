@@ -1,0 +1,72 @@
+    1   cd
+    2  cd/
+    3  cd
+    4  cd/
+    5  cd
+    6  cd
+    7  cd
+    8  cd
+    9  cd /
+   10  ls
+   11  md TangHBin
+   12  md TangHbin /
+   13  md / TangHBin
+   14  mkdir TangHB
+   15  cd / TangHB
+   16  cd TangHB
+   17  ls D:\摄像
+   18  ls
+   19  ls D:\摄像
+   20  history 
+   21  ls /D:/摄像
+   22  ls D
+   23  ls D:
+   24  ls D:/
+   25  ls D:/摄像/
+   26  cp D:/摄像/原神 2022_10_25 16_30_57 .
+   27  ls D:/摄像/
+   28  cp D:/摄像/THB/ .
+   29  cp D:/摄像/THB .
+   30  cp D:/摄像/THB.jpg/ .
+   31  cp D:/摄像/THB.jpg .
+   32  ls
+   33  rm THB.jpg 
+   34  ls
+   35  cp D:/摄像/THB.jpg .
+   36  ls
+   37  rm THB.jpg 
+   38  ls
+   39  cp D:/摄像/* . -r
+   40  ls
+   41  history 
+   42  rm *
+   43  ls
+   44  cp D:\* . -r
+   45  cp D:/* . -r
+   46  cd TangHB
+   47  ls
+   48  rm * -r
+   49  ls
+   50  cp D:/摄像/THB.jpg .
+   51  ls
+   52  ls
+   53  history 
+   54  cp D:/摄像/崩坏: 星穹铁道 2023-08-22 22-35-24.mp4 .
+   55  cp D:/摄像/123.mp4 .
+   56  ls
+   57  rm 123.mp4
+   58  ls
+   59  mkdir make
+   60  ls
+   61  cp D:/摄像/123.mp4 ./make
+   62  ls
+   63  ls /make
+   64  ls ./lame
+   65  ls ./make
+   66  history 
+   67  ls
+   68  rm make
+   69  rm make -r
+   70  ls
+   71  cd /
+   72  history > 20213582-2023-09-06.txt
